@@ -52,7 +52,7 @@ h1{
 }
 
 .input{
-    background-color: var(--main.B);
+    background-color: var(--mainB);
     color: black;
     display: block;
     margin: 0 auto;
