@@ -62,7 +62,7 @@ h1{
 }
 
 #txt{
-    background-color: white;
+    background-color: var(--mainB);
     color: black;
     font-weight: 900;
     text-align: center;
