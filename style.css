@@ -1,5 +1,6 @@
 :root{
     --main: silver;
+    --main2: lightsilver;
     --second: lightyellow;
 }
 
@@ -51,7 +52,7 @@ h1{
 }
 
 .input{
-    background-color: var(--main);
+    background-color: var(--main2);
     color: black;
     display: block;
     margin: 0 auto;
